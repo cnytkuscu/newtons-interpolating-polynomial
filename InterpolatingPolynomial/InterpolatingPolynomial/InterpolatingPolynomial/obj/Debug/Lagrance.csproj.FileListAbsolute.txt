@@ -1,0 +1,9 @@
+D:\C#_Files\Lagrance\Lagrance\Lagrance\bin\Debug\Lagrance.exe.config
+D:\C#_Files\Lagrance\Lagrance\Lagrance\bin\Debug\Lagrance.exe
+D:\C#_Files\Lagrance\Lagrance\Lagrance\bin\Debug\Lagrance.pdb
+D:\C#_Files\Lagrance\Lagrance\Lagrance\obj\Debug\Lagrance.Form1.resources
+D:\C#_Files\Lagrance\Lagrance\Lagrance\obj\Debug\Lagrance.Properties.Resources.resources
+D:\C#_Files\Lagrance\Lagrance\Lagrance\obj\Debug\Lagrance.csproj.GenerateResource.Cache
+D:\C#_Files\Lagrance\Lagrance\Lagrance\obj\Debug\Lagrance.exe
+D:\C#_Files\Lagrance\Lagrance\Lagrance\obj\Debug\Lagrance.pdb
+D:\C#_Files\Lagrance\Lagrance\Lagrance\obj\Debug\Lagrance.csprojAssemblyReference.cache
